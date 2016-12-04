@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: Research
 permalink: /research/
@@ -6,7 +6,7 @@ permalink: /research/
 # Working Papers: 
 1. "Temporary Migration and the Skill Composition of Native Workers"
 	* Coauthored with Alessandra Faggian and Jonathan Corcoran
-2. "USDA�s Business and Industry (B& I) Loan Program and Business Dynamics"
+2. "USDA’s Business and Industry (B& I) Loan Program and Business Dynamics"
 	* Coauthored with Anil Rupasingha and John Pender
 3. "Was Access to Capital a Barrier to Entry, Survival, and Growth in the Hinterland? Evidence from the Rural United States"
 	* Coauthored with Anil Rupasingha and Sarah Low
