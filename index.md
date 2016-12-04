@@ -2,17 +2,14 @@
 layout: default
 ---
 ## Contact Info:
-<table>
-  <tr >
-    <td align="left">
+
 **Address:**
 Office #233 Ag Admin Building
 2120 Fyffe Road Columbus, OH 43210
 
 **Email:** crown.17@osu.edu 
-</td>
-   <td align="right"><img src = "crown_pic.jpg /> </td>
-</table>
+<img src = "crown_pic.jpg > 
+
 
 **Address:**
 Office #233 Ag Admin Building
