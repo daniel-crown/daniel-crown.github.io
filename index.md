@@ -4,7 +4,7 @@ layout: default
 
 
 ## Contact Info:
-<div style="text-align:right"><img src ="crown_pic.jpg" /></div>
+<img style="float: right;", src ="crown_pic.jpg" >
 
 2120 Fyffe Rd
 Office #233 
