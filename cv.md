@@ -3,4 +3,4 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-[Here is a link to my CV]( https://daniel-crown.github.io/CV.pdf )
+[Here is a link to my CV](CV.pdf )
