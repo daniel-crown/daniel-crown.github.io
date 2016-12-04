@@ -13,10 +13,12 @@ permalink: /research/
 * "University Major Choice and Labor Market Returns: Evidence from SESTAT"
 	* Coauthored with Pantelis Kazaqis
 * "Heterogeneous Returns to Migration of Married Couples"
+
 ## Work in Progress:
 * "Naturaliation of Foreign-Born Scientists and Innovation"
-	
+
 * "Do Temporary Visa Programs Reduce Entrepreneurship"
+
 ## Book Chapters:
 * "Economic Resilience and Interregional Migration"
 	* Coauthored with Tim Jaquet and Alessandra Faggian
