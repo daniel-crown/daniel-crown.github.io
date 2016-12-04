@@ -14,9 +14,9 @@ permalink: /research/
 	* Coauthored with Pantelis Kazaqis
 * "Heterogeneous Returns to Migration of Married Couples"
 	* Runner-up AEDE Best Second Year Paper Award
+	
 ## Work in Progress:
 * "Naturaliation of Foreign-Born Scientists and Innovation"
-
 * "Do Temporary Visa Programs Reduce Entrepreneurship"
 
 ## Book Chapters:
