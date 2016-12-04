@@ -8,7 +8,8 @@ layout: default
 
 **Address:**
 Office #233 Ag Admin Building
-2120 Fyffe Road Columbus, OH 43210
+2120 Fyffe Road 
+Columbus, OH 43210
 
 **Email:** crown.17@osu.edu 
 
