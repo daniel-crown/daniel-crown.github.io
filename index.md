@@ -2,5 +2,6 @@
 layout: default
 ---
 
-Here's how you link to a [webpage in your site](/teaching/), and
-here's a link to an [external site](https://www.google.com)
+## Working Papers:
+*"Temporary Migration and the Skill Composition of Native Workers"
+-Coauthored with Alessandra Faggian and Jonathan Corcoran
