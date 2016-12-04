@@ -6,8 +6,7 @@ layout: default
 ## Contact Info:
 
 
-**Address:**
-
+**Address:** <br>
 Office #233 Ag Admin Building <br>
 2120 Fyffe Road <br>
 Columbus, OH 43210
