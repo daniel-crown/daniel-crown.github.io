@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-![alt text](crown_pic.jpg)
+<div style="text-align:right"><img src ="crown_pic.jpg" /></div>
+
 
 ## Contact Info:
 2120 Fyffe Rd
