@@ -1,10 +1,11 @@
 ---
 layout: default
 ---
-<div style="text-align:right"><img src ="crown_pic.jpg" /></div>
 
 
 ## Contact Info:
+<div style="text-align:right"><img src ="crown_pic.jpg" /></div>
+
 2120 Fyffe Rd
 Office #233 
 Columbus, OH 43235
