@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: Research
 permalink: /research/
@@ -22,3 +22,6 @@ permalink: /research/
 ## Book Chapters:
 * "Economic Resilience and Interregional Migration"
 	* Coauthored with Tim Jaquet and Alessandra Faggian
+
+## Exploratory Research:
+* [Permanent residency disclosure data](research/research-disclosure)
