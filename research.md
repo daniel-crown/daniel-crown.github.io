@@ -24,4 +24,4 @@ permalink: /research/
 	* Coauthored with Tim Jaquet and Alessandra Faggian
 
 ## Exploratory Research:
-* [Permanent residency disclosure data](research/research-disclosure)
+* [Permanent residency disclosure data](research/research-exploratory)
