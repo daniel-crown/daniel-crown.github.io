@@ -7,6 +7,8 @@ title: Exploratory Research
 	* All stata do-files are available [here](Link to github project)
 
 * Who are the top employers who sponsor permanent residency applications?
+
+
 |Table 1: Top Employers (2008-2015)|
 |:--------------|:--------------------:|
 |Employer Name	|Number of Applications|
