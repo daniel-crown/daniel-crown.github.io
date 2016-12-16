@@ -1,5 +1,5 @@
 ﻿---
-layout: page
+layout: subpage
 title: Exploratory Research
 permalink: /research/research-exploratory/
 ---
