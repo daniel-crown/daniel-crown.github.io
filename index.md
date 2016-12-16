@@ -4,7 +4,7 @@ layout: default
 <img src = "crown_pic.jpg" align="right" > 
 
 
-## Contact Info:
+
 
 
 **Address:** <br>
