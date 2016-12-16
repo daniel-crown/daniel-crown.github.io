@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 
+
 ---
 <img src = "crown_pic.jpg" align="right" > 
 
