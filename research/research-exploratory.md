@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 ﻿---
 layout: subpage
+=======
+---
+layout: page
+>>>>>>> origin/master
 title: Exploratory Research
 permalink: /research/research-exploratory/
 ---
