@@ -5,7 +5,6 @@ permalink: /research/
 ---
 ## Working Papers: 
 * "Temporary Migration and the Skill Composition of Native Workers" (with Alessandra Faggian and Jonathan Corcoran)
-	** Abstract: **
 * "USDA’s Business and Industry (B& I) Loan Program and Business Dynamics" (with Anil Rupasingha and John Pender)
 * "Was Access to Capital a Barrier to Entry, Survival, and Growth in the Hinterland? Evidence from the Rural United States" (with Anil Rupasingha and Sarah Low)
 * "University Major Choice and Labor Market Returns: Evidence from SESTAT" (with Pantelis Kazaqis)
