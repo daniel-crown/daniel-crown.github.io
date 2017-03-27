@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: Research
 permalink: /research/
@@ -28,5 +28,5 @@ permalink: /research/
 * "Do Temporary Visa Programs Reduce Entrepreneurship"
 
 ## Book Chapters:
-* "Economic Resilience and Interregional Migration" (with Tim Jaquet and Alessandra Faggian)
+* "Economic Resilience and Interregional Migration" in New Frontiers in Inter-regional Migration Research (with Tim Jaquet and Alessandra Faggian)
 
