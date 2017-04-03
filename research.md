@@ -6,6 +6,8 @@ permalink: /research/
 ### Working Papers: 
 
 * "Temporary Migration and the Skill Composition of Native Workers" (with Alessandra Faggian and Jonathan Corcoran)
+
+
   <details>
       <summary>Abstract: (Click to expand)</summary>
 <sub> This paper estimates the effect of a major skilled visa program in Australia on the wages and skill composition of the native workforce. Specifically, whether policies that seek to attract and temporarily employ skilled international workers result in crowd-out, or a shift in occupation-specific skills for native workers. To answer these questions, we combine three separate  datasets: (1) the full population of subclass 457 visa approved applications in Australia, (2) the skills performed in each occupation from the Occupational Information Network (O*NET) database, and (3) the nationally representative Household, Income and Labour Dynamics in Australia longitudinal survey (HILDA) from 2001-2015. We find that having a high share of temporary visa holders in a region results in native workers specializing in occupations which require more cognitive and communication skills. Furthermore, we estimate that skilled immigrants increase the wages of natives, which is consistent with the explanation that immigrant and native workers perform complementary tasks in the production process. </sub> 
@@ -23,9 +25,7 @@ importantly, levels of social capital.  Results suggest that in rural counties, 
 branch diversity is greater, i.e., branches of different banks. These results suggest more banking competition may be 
 associated with higher rural establishment survival rates, ceteris paribus.  We also find that results vary with the county’s level of social capital. In both metro and rural counties with the highest levels of social capital, bank branch diversity and access to branches was irrelevant to survival—presumably social capital, possibly face-time with bankers, makes-up for 
 differences in branch access and diversity. In low social capital counties, bank branch access was especially important to 
-establishment survival, presumably due to a lack of social capital or face-time with bankers. 
-
-</sub>
+establishment survival, presumably due to a lack of social capital or face-time with bankers. </sub>
     </details>
     
  * "Naturaliation and the Productivity of Foreign-Born Doctorates"
