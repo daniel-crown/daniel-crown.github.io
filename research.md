@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 ### Working Papers: 
-------
+===
 * "Temporary Migration and the Skill Composition of Native Workers" (with Alessandra Faggian and Jonathan Corcoran)
   <details>
       <summary>Abstract: (Click to expand)</summary>
