@@ -43,7 +43,7 @@ productivity and could be one potential pathway to increased economic growth in 
 
 
 * "Heterogeneous Returns to Migration of Married Couples"
-	 Runner-up AEDE Best Second Year Paper Award
+  * Runner-up AEDE Best Second Year Paper Award
 	
 ### Work in Progress:
 
