@@ -24,6 +24,7 @@ branch diversity is greater, i.e., branches of different banks. These results su
 associated with higher rural establishment survival rates, ceteris paribus.  We also find that results vary with the county’s level of social capital. In both metro and rural counties with the highest levels of social capital, bank branch diversity and access to branches was irrelevant to survival—presumably social capital, possibly face-time with bankers, makes-up for 
 differences in branch access and diversity. In low social capital counties, bank branch access was especially important to 
 establishment survival, presumably due to a lack of social capital or face-time with bankers. </sub>
+
     </details><br {
         line-height: 70%;
      }>
@@ -33,6 +34,7 @@ establishment survival, presumably due to a lack of social capital or face-time 
        <summary>Abstract: (Click to expand)</summary>
 <sub> This paper estimates the effect of obtaining U.S. citizenship on individual level measures of productivity for foreign-born doctoral recipients from U.S. universities. Becoming a United States citizen results in the removal of barriers such as access to public sector occupations and to some sources of government sponsored research funding which are hypothesized to increase the productivity of foreign-born scientists. We utilize panel data from the Survey of Doctoral Recipients (SDR) from 1993-2013 and individual fixed effects models to control for selection bias in the naturalization decision. Preliminary results indicate that becoming a naturalized citizen increases wages by 6% and increases the number of patent applications filed over a 5 year period by about 1 patent application. We find positive effects of naturalization on several measures of academic productivity, specifically that foreign-born workers in academic occupations publish 0.5 more papers and make close to one additional paper presentation over a 5 year period. We find that foreign-born workers who naturalize are 2% more likely to work in the public sector and 9.7% more likely to utilize research funding from a government agency. Our results imply that granting citizenship to highly skilled foreign graduates of U.S. educational institutions has positive effects on their individual-level 
 productivity and could be one potential pathway to increased economic growth in the United States.  </sub>
+
     </details><br {
         line-height: 60%;
      }>
