@@ -21,12 +21,7 @@ associated with higher rural establishment survival rates, ceteris paribus.  We 
 differences in branch access and diversity. In low social capital counties, bank branch access was especially important to 
 establishment survival, presumably due to a lack of social capital or face-time with bankers. </sub>
     </details>
-* "University Major Choice and Labor Market Returns: Evidence from SESTAT" (with Pantelis Kazaqis)
-* "Heterogeneous Returns to Migration of Married Couples"
-	* Runner-up AEDE Best Second Year Paper Award
-	
-## Work in Progress:
-* "Naturaliation of Foreign-Born Scientists and Innovation"
+ * "Naturaliation and the Productivity of Foreign-Born Scientists"
   <details>
       <summary>Abstract: (Click to expand)</summary>
 <sub> This paper estimates the effect of obtaining U.S. citizenship on individual level measures of productivity for foreign-born 
@@ -35,6 +30,12 @@ the productivity of foreign-born scientists. We utilize panel data from the Surv
 sector and 9.7% more likely to utilize research funding from a government agency. Our results imply that granting citizenship to highly skilled foreign graduates of U.S. educational institutions has positive effects on their individual-level 
 productivity and could be one potential pathway to increased economic growth in the United States.  </sub>
     </details>
+* "University Major Choice and Labor Market Returns: Evidence from SESTAT" (with Pantelis Kazaqis)
+* "Heterogeneous Returns to Migration of Married Couples"
+	* Runner-up AEDE Best Second Year Paper Award
+	
+## Work in Progress:
+
 * "Do Temporary Visa Programs Reduce Entrepreneurship"
 
 ## Book Chapters:
