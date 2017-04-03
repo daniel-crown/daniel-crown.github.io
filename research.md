@@ -13,6 +13,7 @@ permalink: /research/
 
 
 
+
 * "Firm Survival in Rural America: Is Access to Capital a Barrier?" (with Anil Rupasingha and Sarah Low)
   <details>
       <summary>Abstract: (Click to expand)</summary>
@@ -22,11 +23,11 @@ importantly, levels of social capital.  Results suggest that in rural counties, 
 branch diversity is greater, i.e., branches of different banks. These results suggest more banking competition may be 
 associated with higher rural establishment survival rates, ceteris paribus.  We also find that results vary with the county’s level of social capital. In both metro and rural counties with the highest levels of social capital, bank branch diversity and access to branches was irrelevant to survival—presumably social capital, possibly face-time with bankers, makes-up for 
 differences in branch access and diversity. In low social capital counties, bank branch access was especially important to 
-establishment survival, presumably due to a lack of social capital or face-time with bankers. </sub>
+establishment survival, presumably due to a lack of social capital or face-time with bankers. 
+
+</sub>
     </details>
     
-
-
  * "Naturaliation and the Productivity of Foreign-Born Doctorates"
    <details>
        <summary>Abstract: (Click to expand)</summary>
