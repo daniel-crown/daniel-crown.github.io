@@ -10,6 +10,7 @@ permalink: /research/
 <sub> This paper estimates the effect of a major skilled visa program in Australia on the wages and skill composition of the native workforce. Specifically, whether policies that seek to attract and temporarily employ skilled international workers result in crowd-out, or a shift in occupation-specific skills for native workers. To answer these questions, we combine three separate  datasets: (1) the full population of subclass 457 visa approved applications in Australia, (2) the skills performed in each occupation from the Occupational Information Network (O*NET) database, and (3) the nationally representative Household, Income and Labour Dynamics in Australia longitudinal survey (HILDA) from 2001-2015. We find that having a high share of temporary visa holders in a region results in native workers specializing in occupations which require more cognitive and communication skills. Furthermore, we estimate that skilled immigrants increase the wages of natives, which is consistent with the explanation that immigrant and native workers perform complementary tasks in the production process. </sub>
     </details>
 
+
 * "Firm Survival in Rural America: Is Access to Capital a Barrier?" (with Anil Rupasingha and Sarah Low)
   <details>
       <summary>Abstract: (Click to expand)</summary>
@@ -22,12 +23,14 @@ differences in branch access and diversity. In low social capital counties, bank
 establishment survival, presumably due to a lack of social capital or face-time with bankers. </sub>
     </details>
     
+    
  * "Naturaliation and the Productivity of Foreign-Born Doctorates"
    <details>
        <summary>Abstract: (Click to expand)</summary>
 <sub> This paper estimates the effect of obtaining U.S. citizenship on individual level measures of productivity for foreign-born doctoral recipients from U.S. universities. Becoming a United States citizen results in the removal of barriers such as access to public sector occupations and to some sources of government sponsored research funding which are hypothesized to increase the productivity of foreign-born scientists. We utilize panel data from the Survey of Doctoral Recipients (SDR) from 1993-2013 and individual fixed effects models to control for selection bias in the naturalization decision. Preliminary results indicate that becoming a naturalized citizen increases wages by 6% and increases the number of patent applications filed over a 5 year period by about 1 patent application. We find positive effects of naturalization on several measures of academic productivity, specifically that foreign-born workers in academic occupations publish 0.5 more papers and make close to one additional paper presentation over a 5 year period. We find that foreign-born workers who naturalize are 2% more likely to work in the public sector and 9.7% more likely to utilize research funding from a government agency. Our results imply that granting citizenship to highly skilled foreign graduates of U.S. educational institutions has positive effects on their individual-level 
 productivity and could be one potential pathway to increased economic growth in the United States.  </sub>
     </details>
+
 
 * "USDA’s Business and Industry (B& I) Loan Program and Business Dynamics" (with Anil Rupasingha and John Pender)
 * "University Major Choice and Labor Market Returns: Evidence from SESTAT" (with Pantelis Kazaqis)
