@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 ---
-## Working Papers: 
+### Working Papers: 
 * "Temporary Migration and the Skill Composition of Native Workers" (with Alessandra Faggian and Jonathan Corcoran)
   <details>
       <summary>Abstract: (Click to expand)</summary>
@@ -34,10 +34,10 @@ productivity and could be one potential pathway to increased economic growth in 
 * "Heterogeneous Returns to Migration of Married Couples"
 	* Runner-up AEDE Best Second Year Paper Award
 	
-## Work in Progress:
+### Work in Progress:
 * "Graduate Visa Programs and the Labor Market Outcomes of Native Recent Graduates" (With Alessandra Faggian and Jonathan Corcoran)
 * "Do Temporary Visa Programs Reduce Entrepreneurship"
 
-## Book Chapters:
+### Book Chapters:
 * "Economic Resilience and Interregional Migration" in *New Frontiers in Inter-regional Migration Research* (with Tim Jaquet and Alessandra Faggian)
 
