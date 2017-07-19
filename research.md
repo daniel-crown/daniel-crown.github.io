@@ -26,7 +26,7 @@ differences in branch access and diversity. In low social capital counties, bank
 establishment survival, presumably due to a lack of social capital or face-time with bankers. </sub><p style="line-height: 80%"></p> 
    </details>
    
-* "Naturaliation and the Productivity of Foreign-Born Doctorates"
+* "Naturalization and the Productivity of Foreign-Born Doctorates"
 (with Alessandra Faggian)
    <details>
        <summary>Abstract: (Click to expand)</summary>
