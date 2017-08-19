@@ -6,7 +6,7 @@ permalink: /teaching/
 ### Primary Instructor:
 * Regional Economics and Sustainable Growth (AEDE3680), The Ohio State University (Spring 2017)
 	* Description:  Undergraduate course in regional economics covering topics such as agglomeration economies, interregional migration, and regional development.
-	* Teaching Evaluation Score: 4.6/5 (University average: 4.3, full evaulations available upon request)
+	* Teaching Evaluation Score: 4.6/5 (University average: 4.3, detailed evaluation available upon request)
 
 ### Teaching Assistant: 
 * Food and Resource Economics (AEDE2001), The Ohio State University (Fall 2015, Spring 2016, Fall 2016, Fall 2017)
