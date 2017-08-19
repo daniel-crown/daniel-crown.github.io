@@ -7,10 +7,8 @@ permalink: /research/
 
 * "Temporary Migration and the Skill Composition of Native Workers" 
 (with Alessandra Faggian and Jonathan Corcoran)
-  <details>
-      <summary>Abstract: (Click to expand)</summary>
-<sub>This paper estimates the effect of a major skilled visa program in Australia on the wages and skill composition of the native workforce. Specifically, whether policies that seek to attract and temporarily employ skilled international workers result in crowd-out, or a shift in occupation-specific skills for native workers. To answer these questions, we combine three separate  datasets: (1) the full population of subclass 457 visa approved applications in Australia, (2) the skills performed in each occupation from the Occupational Information Network (O*NET) database, and (3) the nationally representative Household, Income and Labour Dynamics in Australia longitudinal survey (HILDA) from 2001-2015. We find that having a high share of temporary visa holders in a region results in native workers specializing in occupations which require more cognitive and communication skills. Furthermore, we estimate that skilled immigrants increase the wages of natives, which is consistent with the explanation that immigrant and native workers perform complementary tasks in the production process. </sub><p style="line-height: 80%"></p> 
-   </details>
+	* Abstract: 
+This paper estimates the effect of a major skilled visa program in Australia on the wages and skill composition of the native workforce. Specifically, whether policies that seek to attract and temporarily employ skilled international workers result in crowd-out, or a shift in occupation-specific skills for native workers. To answer these questions, we combine three separate  datasets: (1) the full population of subclass 457 visa approved applications in Australia, (2) the skills performed in each occupation from the Occupational Information Network (O*NET) database, and (3) the nationally representative Household, Income and Labour Dynamics in Australia longitudinal survey (HILDA) from 2001-2015. We find that having a high share of temporary visa holders in a region results in native workers specializing in occupations which require more cognitive and communication skills. Furthermore, we estimate that skilled immigrants increase the wages of natives, which is consistent with the explanation that immigrant and native workers perform complementary tasks in the production process. 
 
 * "Firm Survival in Rural America: Is Access to Capital a Barrier?" 
 (with Anil Rupasingha and Sarah Low)
@@ -46,7 +44,6 @@ productivity and could be one potential pathway to increased economic growth in 
 (With Alessandra Faggian and Jonathan Corcoran)
 
 
-* "Do Temporary Visa Programs Reduce Entrepreneurship"
 
 ### Book Chapters:
 
