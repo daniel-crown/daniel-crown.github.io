@@ -15,7 +15,7 @@ permalink: /research/
 (with Alessandra Faggian)
 	* Abstract: 
 This paper estimates the effect of obtaining U.S. citizenship on individual level measures of productivity for foreign-born doctoral recipients from U.S. universities. Becoming a United States citizen may increase productivity through increased access to public sector occupations and to some sources of government sponsored research funding. We utilize panel data from the Survey of Doctoral Recipients (SDR) from 1993-2013 and individual fixed effects models to control for selection bias in the naturalization decision. Preliminary results indicate that becoming a naturalized citizen increases wages by 6% and increases the number of patent applications filed over a 5 year period by about 1 patent application. We find small positive effects of naturalization on several measures of academic productivity, including papers published and presented. Overall our results imply that granting citizenship to highly skilled foreign-born graduates increases their individual-level productivity and could
-be one potential pathway to increased economic growth in the United States.
+be one potential pathway to increased economic growth in the United States.<p style="line-height: 80%"></p> 
   
   
    
