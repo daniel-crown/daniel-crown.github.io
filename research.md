@@ -49,8 +49,7 @@ Australian Skilled Graduate Visa Program”
 (with Anil Rupasingha and Sarah Low)
    
 "Heterogeneous Returns to Migration of Married Couples"
-  * Runner-up AEDE Best Second Year Paper Award
-	
+
 
 ### Book Chapters:
 “Economic Resilience and Interregional Migration” with Tim Jaquet and Alessandra Faggian, New Frontiers in Inter-regional Migration Research, In press.
