@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src = "pic_apr_18_2.jpg" align="right" height = "260" > 
+<img src = "IMG_7383.jpg" align="right" height = "260" > 
 
 
 
