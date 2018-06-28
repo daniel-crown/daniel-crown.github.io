@@ -3,6 +3,10 @@ layout: page
 title: Research
 permalink: /research/
 ---
+### Publications:
+"Varieties of Innovation and Business Survival: Does Pursuit or Incremental or Far-Ranging Innovation Make Manufacturing Establishments More Resilient?"
+(with Timothy Wojan and Anil Rupasingha)
+Accepted at *Research Policy*
 ### Working Papers: 
 
 "Temporary Migration and the Skill Composition of Native Workers" 
@@ -15,12 +19,6 @@ This paper estimates the effect of a major skilled visa program in Australia on 
 (with Alessandra Faggian)
 *  <small>Abstract: 
 This paper estimates the effect of obtaining U.S. citizenship on individual level measures of productivity for foreign-born doctoral recipients from U.S. universities. Becoming a United States citizen results in the removal of barriers such as access to public sector occupations and to some sources of government sponsored research funding which are hypothesized to increase the productivity of foreign-born scientists. We utilize panel data from the Survey of Doctoral Recipients (SDR) from 1993-2013 and individual fixed effects models to control for selection bias in the naturalization decision. Our results indicate that becoming a naturalized citizen increases wages and several measures of academic productivity.  In support of our argument, we find that foreign-born workers who naturalize are more likely to utilize research funding from a government agency, but not more likely to work for the government post-naturalization.  </small>
-  
-  
-"Varieties of Innovation and Business Survival: Does Pursuit or Incremental or Far-Ranging Innovation Make Manufacturing Establishments More Resilient?"
-(with Timothy Wojan and Anil Rupasingha)
-* <small> Abstract:
-The transition from an industrial economy to an innovation economy poses two critical questions for the manufacturing sector in advanced countries.  First, given the diffusion of modern manufacturing practices around the world, what level of innovation (incremental, more far-ranging, or radical) is most likely to support a resilient domestic manufacturing sector?  Second, are assumed differences in the innovative capacity across space likely to hasten the decline of rural manufacturing?  To answer these questions this research combines comprehensive measures of self-reported innovation able to reliably differentiate incremental and more far-ranging innovation with establishment-level data able to examine the geographical distribution of these different innovation strategies.  The data used for the analysis includes a two-period panel of manufacturing establishments surveyed in 1996 and 2013 with annual employment data indicating survival in the intervening years.  Our findings suggest that long-surviving manufacturing plants overwhelmingly gravitate away from non-innovation strategies toward incremental or more far-ranging innovation orientations.  A survival advantage of far-ranging innovation over incremental innovation is observed for standalone firms.  We do not identify a difference in the innovation orientations of rural and urban manufacturing establishments.</small>
   
  
 "USDA’s Business and Industry (B& I) Loan Program and Business Dynamics" 
