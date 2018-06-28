@@ -6,7 +6,8 @@ permalink: /research/
 ### Publications:
 "Varieties of Innovation and Business Survival: Does Pursuit or Incremental or Far-Ranging Innovation Make Manufacturing Establishments More Resilient?"
 (with Timothy Wojan and Anil Rupasingha)
-Accepted at *Research Policy*
+
+Forthcoming at *Research Policy*
 ### Working Papers: 
 
 "Temporary Migration and the Skill Composition of Native Workers" 
@@ -50,7 +51,7 @@ Australian Skilled Graduate Visa Program”
 
 
 ### Book Chapters:
-“Economic Resilience and Interregional Migration” with Tim Jaquet and Alessandra Faggian, New Frontiers in Inter-regional Migration Research, In press.
+Crown, D., Jaquet, T., & Faggian, A. (2018). Interregional Migration and Implications for Regional Resilience. *New Frontiers in Interregional Migration Research*, 231.
 
 “Migration and Human Capital: The role of Education in Migration, the Australian case” with Jonathan Corcoran and Alessandra Faggian, in preparation for The Economic Geography of Cross-border Migration.
 
