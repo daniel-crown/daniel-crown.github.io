@@ -17,8 +17,10 @@ Columbus, OH 43210
 **Specialization:** Immigration, Regional Economics, Labor Economics, Rural Development
 
 
-**CV:** [Here is a link to my CV](Crown_CV_2018.pdf )
+**[CV](Crown_CV_2018.pdf)**
 
+
+**[Google Scholar](https://scholar.google.com/citations?user=BmpRN8sAAAAJ&hl=en)**
 
 
 
