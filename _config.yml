@@ -3,7 +3,7 @@ title: Daniel Crown
 email: crown.17@osu.edu
 description: > # this means to ignore newlines until "baseurl:"
   I am a PhD Candidate in the AEDE department at The Ohio State University.  My research interests are in the fields of regional and labor economics 
- baseurl: "https://scholar.google.com/citations?user=BmpRN8sAAAAJ&hl=en" # the subpath of your site, e.g. /blog/
+# baseurl: "" # the subpath of your site, e.g. /blog/
 
 github_username:  daniel-crown
 permalink: /blog/:year/:month/:title.html
