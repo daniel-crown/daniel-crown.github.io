@@ -28,4 +28,4 @@ Columbus, OH 43210
 ### About Me:
 I am a PhD candidate in the Agricultural, Environmental, and Development Economics Department at The Ohio State University.  My dissertation is focused on estimating the effects of skilled immigration policies in developed countries.  In my current projects, I study the effect of granting citizenship to foreign-born scientists on their productivity and contributions to innovation in the United States.  I also study the labor market impact of the Temporary Work visa in Australia, and the effect of the Graduate Skilled visa program on innovation in Australia.
 
-I am on the job market in the 2018-2019 academic year and am available for interviews at the 2018 AAEA meetings in Washington, DC and the 2019 AEA meeting in Atlanta, GA.
+I am on the job market in the 2018-2019 academic year and am available for interviews at the 2019 ASSA/AEA meeting in Atlanta, GA.
