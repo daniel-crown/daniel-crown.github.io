@@ -4,10 +4,8 @@ title: Research
 permalink: /research/
 ---
 ### Publications:
-"Varieties of Innovation and Business Survival: Does Pursuit or Incremental or Far-Ranging Innovation Make Manufacturing Establishments More Resilient?"
-(with Timothy Wojan and Anil Rupasingha)
+Wojan, Timothy R., Daniel Crown, and Anil Rupasingha. "Varieties of innovation and business survival: Does pursuit of incremental or far-ranging innovation make manufacturing establishments more resilient?." Research Policy (2018).
 
-Forthcoming at *Research Policy*
 ### Working Papers: 
 
 "Temporary Migration and the Skill Composition of Native Workers" 
