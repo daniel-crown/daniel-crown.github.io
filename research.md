@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 ### Publications:
-Wojan, Timothy R., Daniel Crown, and Anil Rupasingha. "Varieties of innovation and business survival: Does pursuit of incremental or far-ranging innovation make manufacturing establishments more resilient?". Research Policy (2018). [Link]("https://authors.elsevier.com/c/1XmLEB5AS84Tw")
+Wojan, Timothy R., Daniel Crown, and Anil Rupasingha. ["Varieties of innovation and business survival: Does pursuit of incremental or far-ranging innovation make manufacturing establishments more resilient?"](https://authors.elsevier.com/c/1XmLEB5AS84Tw). Research Policy (2018).
 
 
 Crown, Daniel, Alessandra Faggian. "Naturalization and the Productivity of Foreign-Born Doctorates" Forthcoming at *Journal of Geographical Systems*
