@@ -14,7 +14,6 @@ Rupasingha, Anil, Daniel Crown, and John Pender. "USDA’s Business and Industry
 ### Job Market Paper: 
 
 "Temporary Migration and the Skill Composition of Native Workers" 
-(with Alessandra Faggian and Jonathan Corcoran)
 * <small>Abstract: 
 This paper estimates the effect of a major skilled visa program in Australia on the wages and skill composition of the native workforce. We examine whether skilled international workers ‘crowd-out’ native workers, or induce a shift in the occupation-specific skills performed by native workers. We combine data from the full population of approved subclass 457 visa applications with the nationally representative Household, Income and Labour Dynamics in Australia longitudinal survey (HILDA) from 2001-2015. Our findings indicate that skilled international workers increase the wages of natives, and induce native workers to specialize in occupations associated with a high intensity of communication and cognitive skills.  We find no evidence of negative effects of the visa program on the wages of high-skill or low-skill native workers, or on previous migrants who may be close substitutes to the skilled visa holders. </small>
 
