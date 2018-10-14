@@ -30,12 +30,12 @@ Australian Skilled Graduate Visa Program”
 “The Effect of Female Peers and Supervisors on the Wages and Promotion of Academics”
 (with Joyce Chen)
 
-“The Role of Management in the Federal Civilian Workforce”
+“The Personality Traits of Interregional Migrants” 
+(with Masood Gheasi and Alessandra Faggian)
 
-"Firm Survival in Rural America: Is Access to Capital a Barrier?" 
-(with Anil Rupasingha and Sarah Low)
-   
-"Heterogeneous Returns to Migration of Married Couples"
+“The Effects of Oil and Gas Extraction on Regional Skill Composition, Wages, and
+Migration” 
+(with Isha Rajbhandari and Rodrigo Perez-Silva)
 
 
 ### Book Chapters:
