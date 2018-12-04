@@ -11,6 +11,8 @@ Crown, Daniel, Alessandra Faggian. "Naturalization and the Productivity of Forei
 
 Rupasingha, Anil, Daniel Crown, and John Pender. "USDA’s Business and Industry (B& I) Loan Program and Business Dynamics" . Forthcoming at *Journal of Regional Science*
 
+Crown, Daniel, Timothy Wojan “Room to Run? Implications of High Growth Gazelles in Rural America" Revisions Requested
+
 ### Job Market Paper: 
 
 "Temporary Migration and the Skill Composition of Native Workers" 
