@@ -9,7 +9,7 @@ Wojan, Timothy R., Daniel Crown, and Anil Rupasingha. ["Varieties of innovation 
 
 Crown, Daniel, Alessandra Faggian. "Naturalization and the Productivity of Foreign-Born Doctorates" Forthcoming at *Journal of Geographical Systems*
 
-Rupasingha, Anil, Daniel Crown, and John Pender. "USDA’s Business and Industry (B& I) Loan Program and Business Dynamics" . Forthcoming at *Journal of Regional Science*
+Rupasingha, Anil, Daniel Crown, and John Pender. ["USDA’s Business and Industry (B& I) Loan Program and Business Dynamics"](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jors.12421) . Forthcoming at *Journal of Regional Science*
 
 Crown, Daniel, Timothy Wojan “Room to Run? Implications of High Growth Gazelles in Rural America" Revisions Requested
 
