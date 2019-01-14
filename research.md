@@ -11,8 +11,9 @@ Crown, Daniel, Alessandra Faggian. "Naturalization and the Productivity of Forei
 
 Rupasingha, Anil, Daniel Crown, and John Pender. ["USDA’s Business and Industry (B& I) Loan Program and Business Dynamics"](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jors.12421) . Forthcoming at *Journal of Regional Science*
 
-Crown, Daniel, Timothy Wojan “Room to Run? Implications of High Growth Gazelles in Rural America" Revisions Requested
+Crown, Daniel, Timothy Wojan. “Room to Run? Implications of High Growth Gazelles in Rural America". *Revisions Requested*
 
+Crown, Daniel, Faggian, Alessandra, Corcoran, Jonathan. “Foreign-Born Graduates and Innovation at Domestic Institutions: Evidence from an Australian Skilled Graduate Visa Program”. *Revisions Requested*
 ### Job Market Paper: 
 
 "Temporary Migration and the Skill Composition of Native Workers" 
@@ -22,12 +23,7 @@ This paper estimates the effect of a major skilled visa program in Australia on 
 
 ### Work in Progress:
 
-“Foreign-Born Graduates and Innovation at Domestic Institutions: Evidence from an
-Australian Skilled Graduate Visa Program” 
-(with Alessandra Faggian and Jonathan Corcoran)
-
-“The Gender Wage Gap in Academia: Evidence from The Ohio State University”
-(with Joyce Chen)
+Chen, Joyce, Crown, Daniel. “The Gender Wage Gap in Academia: Evidence from The Ohio State University”. *Submitted*
 
 “The Effect of Female Peers and Supervisors on the Wages and Promotion of Academics”
 (with Joyce Chen)
