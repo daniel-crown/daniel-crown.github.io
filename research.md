@@ -13,7 +13,7 @@ Rupasingha, Anil, Daniel Crown, and John Pender. ["USDA’s Business and Industr
 
 Crown, Daniel, Timothy Wojan. “Room to Run? Implications of High Growth Gazelles in Rural America". *Revisions Requested*
 
-Crown, Daniel, Faggian, Alessandra, Corcoran, Jonathan. “Foreign-Born Graduates and Innovation at Domestic Institutions: Evidence from an Australian Skilled Graduate Visa Program”. *Revisions Requested*
+Crown, Daniel, Alessandra Faggian, and Jonathan Corcoran. “Foreign-Born Graduates and Innovation at Domestic Institutions: Evidence from an Australian Skilled Graduate Visa Program”. *Revisions Requested*
 ### Job Market Paper: 
 
 "Temporary Migration and the Skill Composition of Native Workers" 
@@ -23,7 +23,7 @@ This paper estimates the effect of a major skilled visa program in Australia on 
 
 ### Work in Progress:
 
-Chen, Joyce, Crown, Daniel. “The Gender Wage Gap in Academia: Evidence from The Ohio State University”. *Submitted*
+Chen, Joyce, Daniel Crown. “The Gender Wage Gap in Academia: Evidence from The Ohio State University”. *Submitted*
 
 “The Effect of Female Peers and Supervisors on the Wages and Promotion of Academics”
 (with Joyce Chen)
