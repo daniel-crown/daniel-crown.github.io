@@ -11,16 +11,16 @@ Crown, Daniel, Alessandra Faggian. "Naturalization and the Productivity of Forei
 
 Rupasingha, Anil, Daniel Crown, and John Pender. ["USDA’s Business and Industry (B& I) Loan Program and Business Dynamics"](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jors.12421) .  Journal of Regional Science (2019)
 
+### Working Papers
 Crown, Daniel, Timothy Wojan. “Room to Run? Implications of High Growth Gazelles in Rural America". *Revisions Requested*
 
 Crown, Daniel, Alessandra Faggian, and Jonathan Corcoran. “Foreign-Born Graduates and Innovation at Domestic Institutions: Evidence from an Australian Skilled Graduate Visa Program”. *Revisions Requested*
 
 Crown, Daniel, Alessandra Faggian, and Jonathan Corcoran. "High-Skilled Immigration and the Skill Composition of Native Workers" *Revisions Requested*
 
-### Work in Progress:
-
 Chen, Joyce, Daniel Crown. “The Gender Wage Gap in Academia: Evidence from The Ohio State University”. *Submitted*
 
+### Work in Progress:
 “The Effect of Female Peers and Supervisors on the Wages and Promotion of Academics”
 (with Joyce Chen)
 
