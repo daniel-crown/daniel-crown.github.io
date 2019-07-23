@@ -14,7 +14,7 @@ Rupasingha, Anil, Daniel Crown, and John Pender. ["USDA’s Business and Industr
 Chen, Joyce, Daniel Crown. [“The Gender Wage Gap in Academia: Evidence from The Ohio State University”](https://academic.oup.com/ajae/advance-article-abstract/doi/10.1093/ajae/aaz017/5532316?redirectedFrom=fulltext) . *American Journal of Agricultural Economics* (2019)
 
 ### Working Papers
-Crown, Daniel, Timothy Wojan, Anil Rupasingha. “Room to Run? Implications of High Growth Gazelles in Rural America". *Revisions Requested*
+
 
 Crown, Daniel, Alessandra Faggian, and Jonathan Corcoran. “Foreign-Born Graduates and Innovation at Domestic Institutions: Evidence from an Australian Skilled Graduate Visa Program”. *Revisions Requested*
 
