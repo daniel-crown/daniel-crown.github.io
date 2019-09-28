@@ -11,7 +11,7 @@ Crown, Daniel, Alessandra Faggian. ["Naturalization and the Productivity of Fore
 
 Rupasingha, Anil, Daniel Crown, and John Pender. ["USDA’s Business and Industry (B& I) Loan Program and Business Dynamics"](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jors.12421) .  *Journal of Regional Science* (2019)
 
-Chen, Joyce, Daniel Crown. [“The Gender Wage Gap in Academia: Evidence from The Ohio State University”](https://academic.oup.com/ajae/advance-article-abstract/doi/10.1093/ajae/aaz017/5532316?redirectedFrom=fulltext) . *American Journal of Agricultural Economics* (2019)
+Chen, Joyce, Daniel Crown. [“The Gender Wage Gap in Academia: Evidence from The Ohio State University”](https://academic.oup.com/ajae/article/101/5/1337/5532316?guestAccessKey=6b313eb5-c7ab-4cbe-b4f7-b2339d6677d0) . *American Journal of Agricultural Economics* (2019)
 
 ### Working Papers
 
