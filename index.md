@@ -7,10 +7,6 @@ layout: default
 
 
 
-**Address:** <br>
-Office #233 Ag Admin Building <br>
-2120 Fyffe Road <br>
-Columbus, OH 43210
 
 **Email:** crown.17@osu.edu 
 
@@ -26,4 +22,4 @@ Columbus, OH 43210
 
 
 ### About Me:
-I am a PhD candidate in the Agricultural, Environmental, and Development Economics Department at The Ohio State University.  My dissertation is focused on estimating the effects of skilled immigration policies in developed countries.  In my current projects, I study the effect of granting citizenship to foreign-born scientists on their productivity and contributions to innovation in the United States.  I also study the labor market impact of the Temporary Work visa in Australia, and the effect of the Graduate Skilled visa program on innovation in Australia.
+I am an economist with research interests in immigration, labor economics, and rural development. I have worked on issues related to skilled immigration policy, the role of financial capital on rural business growth, and gender wage inequality among academics. In ongoing projects, I study the labor market impact of the Temporary Work visa in Australia, and the effect of the Graduate Skilled visa program on innovation in Australia.
