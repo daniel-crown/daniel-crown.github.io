@@ -22,4 +22,4 @@ layout: default
 
 
 ### About Me:
-I am an economist with research interests in immigration, labor economics, and rural development. I have worked on issues related to skilled immigration policy, the role of financial capital on rural business growth, and gender wage inequality among academics. In ongoing projects, I study the labor market impact of the Temporary Work visa in Australia, and the effect of the Graduate Skilled visa program on innovation in Australia.
+I am an economist with research interests in immigration, labor economics, and rural development. I have worked on issues related to skilled immigration policy, the role of financial capital on rural business growth, and gender wage inequality among academics. In ongoing projects, I study the labor market impact of the Temporary Work visa in Australia, the effect of a Graduate Skilled visa on innovation in Australia, and immigrant earnings assimilation in the United States.
