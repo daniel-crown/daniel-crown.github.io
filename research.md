@@ -14,7 +14,7 @@ Rupasingha, Anil, Daniel Crown, and John Pender. ["USDA’s Business and Industr
 Chen, Joyce, Daniel Crown. [“The Gender Wage Gap in Academia: Evidence from The Ohio State University”](https://academic.oup.com/ajae/article/101/5/1337/5532316?guestAccessKey=6b313eb5-c7ab-4cbe-b4f7-b2339d6677d0) . *American Journal of Agricultural Economics* (2019)
 
 ### Working Papers
-
+Crown, Daniel, Masood Gheasi, Alessandra Faggian. “The Personality Traits of Interregional Migrants” . *Accepted*
 
 Crown, Daniel, Alessandra Faggian, and Jonathan Corcoran. “Foreign-Born Graduates and Innovation at Domestic Institutions: Evidence from an Australian Skilled Graduate Visa Program”. *Revisions Requested*
 
@@ -22,8 +22,7 @@ Crown, Daniel, Alessandra Faggian, and Jonathan Corcoran. "High-Skilled Immigrat
 
 
 ### Work in Progress:
-“The Personality Traits of Interregional Migrants” 
-(with Masood Gheasi and Alessandra Faggian)
+
 
 “The Effects of Oil and Gas Extraction on Regional Skill Composition, Wages, and
 Migration” 
