@@ -16,9 +16,10 @@ Chen, Joyce, Daniel Crown. [“The Gender Wage Gap in Academia: Evidence from Th
 ### Working Papers
 Crown, Daniel, Masood Gheasi, Alessandra Faggian. “The Personality Traits of Interregional Migrants” . *Accepted*
 
+Crown, Daniel, Alessandra Faggian, and Jonathan Corcoran. "High Skilled Immigration and the Occupational Choices of Native Workers: The Case of Australia " *Accepted*
+
 Crown, Daniel, Alessandra Faggian, and Jonathan Corcoran. “Foreign-Born Graduates and Innovation at Domestic Institutions: Evidence from an Australian Skilled Graduate Visa Program”. *Revisions Requested*
 
-Crown, Daniel, Alessandra Faggian, and Jonathan Corcoran. "High-Skilled Immigration and the Skill Composition of Native Workers" *Revisions Requested*
 
 
 ### Work in Progress:
