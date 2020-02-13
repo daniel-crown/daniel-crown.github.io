@@ -17,11 +17,7 @@ Crown, Daniel, Masood Gheasi, Alessandra Faggian. [“Interregional Mobility and
 
 Crown, Daniel, Alessandra Faggian, and Jonathan Corcoran. "High Skilled Immigration and the Occupational Choices of Native Workers: The Case of Australia " *Accepted*
 
-### Working Papers
-
-
 Crown, Daniel, Alessandra Faggian, and Jonathan Corcoran. “Foreign-Born Graduates and Innovation at Domestic Institutions: Evidence from an Australian Skilled Graduate Visa Program”. *Accepted*
-
 
 
 ### Work in Progress:
