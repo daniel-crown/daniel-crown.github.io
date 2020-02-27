@@ -9,15 +9,15 @@ Wojan, Timothy R., Daniel Crown, and Anil Rupasingha. ["Varieties of innovation 
 
 Crown, Daniel, Alessandra Faggian. ["Naturalization and the Productivity of Foreign-Born Doctorates"](https://link.springer.com/epdf/10.1007/s10109-019-00301-6?author_access_token=zRFG1MxFc9-WwJD6aDPEnve4RwlQNchNByi7wbcMAY7q5kePdIhYCtW0ECFwiz2p0VvR9zWSbNxneLXvyok4GgU2RYFVaeMZPZoamENXo1razg3hWJg3UjDVyzr3_Bb9_aMSQ2zRjiPxslcLpGXAyw%3D%3D). *Journal of Geographical Systems* (2019)
 
-Rupasingha, Anil, Daniel Crown, and John Pender. ["USDA’s Business and Industry (B& I) Loan Program and Business Dynamics"](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jors.12421) .  *Journal of Regional Science* (2019)
+Rupasingha, Anil, Daniel Crown, and John Pender. ["USDA’s Business and Industry (B& I) Loan Program and Business Dynamics"](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jors.12421).  *Journal of Regional Science* (2019)
 
-Chen, Joyce, Daniel Crown. [“The Gender Wage Gap in Academia: Evidence from The Ohio State University”](https://academic.oup.com/ajae/article/101/5/1337/5532316?guestAccessKey=6b313eb5-c7ab-4cbe-b4f7-b2339d6677d0) . *American Journal of Agricultural Economics* (2019)
+Chen, Joyce, Daniel Crown. [“The Gender Wage Gap in Academia: Evidence from The Ohio State University”](https://academic.oup.com/ajae/article/101/5/1337/5532316?guestAccessKey=6b313eb5-c7ab-4cbe-b4f7-b2339d6677d0). *American Journal of Agricultural Economics* (2019)
 
-Crown, Daniel, Masood Gheasi, Alessandra Faggian. [“Interregional Mobility and the Personality Traits of Migrants”](https://rsaiconnect.onlinelibrary.wiley.com/doi/10.1111/pirs.12516) . *Papers in Regional Science* (2020)
+Crown, Daniel, Masood Gheasi, Alessandra Faggian. [“Interregional Mobility and the Personality Traits of Migrants”](https://rsaiconnect.onlinelibrary.wiley.com/doi/10.1111/pirs.12516). *Papers in Regional Science* (2020)
 
-Crown, Daniel, Alessandra Faggian, and Jonathan Corcoran. "High Skilled Immigration and the Occupational Choices of Native Workers: The Case of Australia " *Accepted*
+Crown, Daniel, Alessandra Faggian, and Jonathan Corcoran. "High Skilled Immigration and the Occupational Choices of Native Workers: The Case of Australia". *Accepted*
 
-Crown, Daniel, Alessandra Faggian, and Jonathan Corcoran. “Foreign-Born Graduates and Innovation at Domestic Institutions: Evidence from an Australian Skilled Graduate Visa Program”. *Accepted*
+Crown, Daniel, Alessandra Faggian, and Jonathan Corcoran. [“Foreign-Born Graduates and Innovation at Domestic Institutions: Evidence from an Australian Skilled Graduate Visa Program”](https://www.sciencedirect.com/science/article/abs/pii/S0048733320300251). *Research Policy* (2020)
 
 
 ### Work in Progress:
