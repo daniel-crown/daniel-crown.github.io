@@ -22,4 +22,4 @@ layout: default
 
 
 ### About Me:
-I am an economist with research interests in immigration, labor economics, and rural development. I have worked on issues related to skilled immigration policy, the role of financial capital on rural business growth, and gender wage inequality among academics. In ongoing projects, I study the labor market impact of the Temporary Work visa in Australia, the effect of a Graduate Skilled visa on innovation in Australia, and immigrant earnings assimilation in the United States.
+I am an economist with research interests in immigration, labor economics, and rural development. My previous research has studied skilled immigration policies in the United States and Australia, rural business dynamics, and gender wage inequality. This research has been published in journals including *Research Policy, Journal of Regional Science, Oxford Economic Papers, Industrial and Corporate Change*, and the *American Journal of Agricultural Economics*. My ongoing research studies the labor market assimilation of immigrants in the U.S. and Australia, and the role of social connectivity in determining immigrant settlement patterns. 
