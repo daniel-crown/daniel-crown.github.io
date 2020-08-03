@@ -15,7 +15,7 @@ Chen, Joyce, Daniel Crown. [“The Gender Wage Gap in Academia: Evidence from Th
 
 Crown, Daniel, Masood Gheasi, Alessandra Faggian. [“Interregional Mobility and the Personality Traits of Migrants”](https://rsaiconnect.onlinelibrary.wiley.com/doi/10.1111/pirs.12516). *Papers in Regional Science* (2020)
 
-Crown, Daniel, Alessandra Faggian, and Jonathan Corcoran. "High Skilled Immigration and the Occupational Choices of Native Workers: The Case of Australia". *Accepted*
+Crown, Daniel, Alessandra Faggian, and Jonathan Corcoran. ["High Skilled Immigration and the Occupational Choices of Native Workers: The Case of Australia"](https://academic.oup.com/oep/article-abstract/72/3/585/5841554?redirectedFrom=fulltext). *Oxford Economic Papers* (2020)
 
 Crown, Daniel, Alessandra Faggian, and Jonathan Corcoran. [“Foreign-Born graduates and innovation: Evidence from an Australian skilled visa program”](https://www.sciencedirect.com/science/article/abs/pii/S0048733320300251). *Research Policy* (2020)
 
