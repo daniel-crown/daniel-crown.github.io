@@ -19,7 +19,7 @@ Crown, Daniel, Alessandra Faggian, and Jonathan Corcoran. ["High Skilled Immigra
 
 Crown, Daniel, Alessandra Faggian, and Jonathan Corcoran. [“Foreign-Born graduates and innovation: Evidence from an Australian skilled visa program”](https://www.sciencedirect.com/science/article/abs/pii/S0048733320300251). *Research Policy* (2020)
 
-Crown, Daniel, Timothy R. Wojan, and Anil Rupasingha. "Local Spillovers from High Growth Businesses: Do Gazelles Cannibalize or Promote Employment Growth?". *Accepted*
+Crown, Daniel, Timothy R. Wojan, and Anil Rupasingha. ["Local Spillovers from High Growth Businesses: Do Gazelles Cannibalize or Promote Employment Growth?"](https://academic.oup.com/icc/advance-article-abstract/doi/10.1093/icc/dtaa032/5918708?redirectedFrom=fulltext). *Industrial and Corporate Change* (2020)
 
 ### Work in Progress:
 
