@@ -3,9 +3,9 @@ layout: page
 title: Reports
 permalink: /reports/
 ---
-### Publications:
+### CBO Reports:
 
-Wojan, Timothy R., Daniel Crown, and Anil Rupasingha. ["Varieties of innovation and business survival: Does pursuit of incremental or far-ranging innovation make manufacturing establishments more resilient?"](https://www.sciencedirect.com/science/article/abs/pii/S0048733318301562). *Research Policy* (2018).
+Congressional Budget Office. ["The 2023 Long-Term Budget Outlook"](https://www.cbo.gov/publication/59014). (2023).
 
 Crown, Daniel, Alessandra Faggian. ["Naturalization and the Productivity of Foreign-Born Doctorates"](https://link.springer.com/epdf/10.1007/s10109-019-00301-6?author_access_token=zRFG1MxFc9-WwJD6aDPEnve4RwlQNchNByi7wbcMAY7q5kePdIhYCtW0ECFwiz2p0VvR9zWSbNxneLXvyok4GgU2RYFVaeMZPZoamENXo1razg3hWJg3UjDVyzr3_Bb9_aMSQ2zRjiPxslcLpGXAyw%3D%3D). *Journal of Geographical Systems* (2019)
 
