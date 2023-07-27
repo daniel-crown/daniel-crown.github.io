@@ -34,6 +34,4 @@ Crown, D., Jaquet, T., & Faggian, A. (2018). Interregional Migration and Implica
 
 “Migration and Human Capital: The role of Education in Migration, the Australian case” with Jonathan Corcoran and Alessandra Faggian, in preparation for The Economic Geography of Cross-border Migration.
 
-### Contributions to CBO Publications:
-Congressional Budget Office ["2020 Long-Term Budget Outlook"](https://www.cbo.gov/publication/56516).
 
