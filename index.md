@@ -13,7 +13,7 @@ layout: default
 **Specialization:** Immigration, Regional Economics, Labor Economics, Rural Development
 
 
-**[CV](Crown_CV_2021.pdf)**
+**[CV](Crown_CV_2023.pdf)**
 
 
 **[Google Scholar](https://scholar.google.com/citations?user=BmpRN8sAAAAJ&hl=en)**
